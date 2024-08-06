@@ -26,4 +26,4 @@ temp/
 # Ignore all JSON files except package.json and package-lock.json
 *.json
 !package.json
-!package-lock.json
+package-lock.json
